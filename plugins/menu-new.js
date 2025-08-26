@@ -51,7 +51,7 @@ cmd({
                 return await conn.sendMessage(
                     from,
                     {
-                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/yj7zp0.png' },
+                        image: { url: config.MENU_IMAGE_URL || 'https://github.com/Danidudanesh/Danuzz-MD/blob/main/LOGo/ChatGPT%20Image%20Aug%2022,%202025,%2011_32_57%20AM.png?raw=true' },
                         caption: menuCaption,
                         contextInfo: contextInfo
                     },
@@ -418,7 +418,7 @@ cmd({
                                 await conn.sendMessage(
                                     senderID,
                                     {
-                                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/yj7zp0.png' },
+                                        image: { url: config.MENU_IMAGE_URL || 'https://github.com/Danidudanesh/Danuzz-MD/blob/main/LOGo/ChatGPT%20Image%20Aug%2022,%202025,%2011_32_57%20AM.png?raw=true' },
                                         caption: selectedMenu.content,
                                         contextInfo: contextInfo
                                     },
