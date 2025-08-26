@@ -27,7 +27,7 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/qpnazl.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://github.com/Danidudanesh/Danuzz-MD/blob/main/LOGo/1.png?raw=true",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -47,7 +47,7 @@ OWNER_NAME: process.env.OWNER_NAME || "*Danidu Danesh*",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀɴɪᴅᴜ ᴅᴀɴᴇsʜ ❣️*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/qpnazl.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://github.com/Danidudanesh/Danuzz-MD/blob/main/LOGo/1.png?raw=true",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Hey Dear, Danuzz-MD is Alive Now ⚡",
 // add alive msg here 
