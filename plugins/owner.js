@@ -29,7 +29,7 @@ async (conn, mek, m, { from }) => {
 
         // Send the owner contact message with image and audio
         await conn.sendMessage(from, {
-            image: { url: 'https://files.catbox.moe/yj7zp0.png' }, // Image URL from your request
+            image: { url: 'https://github.com/Danidudanesh/Danuzz-MD/blob/main/LOGo/ChatGPT%20Image%20Aug%2022,%202025,%2011_32_57%20AM.png?raw=true' }, // Image URL from your request
             caption: `╭━━〔 *Danuzz-MD* 〕━━┈⊷
 ┃◈╭─────────────·๏
 ┃◈┃• *Here is the owner details*
